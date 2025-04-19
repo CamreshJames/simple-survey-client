@@ -1,5 +1,5 @@
 // src/lib/utils/api.js
-const API_BASE_URL = 'http://localhost:8000'; // Ensure this matches your FastAPI backend URL
+const API_BASE_URL = 'https://simple-survey-api-james.vercel.app/'; // Ensure this matches your FastAPI backend URL
 
 /**
  * Fetch survey questions from the API
